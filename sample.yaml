@@ -5,6 +5,7 @@ metadata:
   generation: 1
   labels:
     app: web
+    label: catalin
   name: web
   namespace: catalin-flux-system
   resourceVersion: "51693357"
